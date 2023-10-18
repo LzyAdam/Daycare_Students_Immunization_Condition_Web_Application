@@ -1,0 +1,6 @@
+student,student1,teacher1
+student,student2,teacher2
+student,student3,teacher3
+teacher,teacher1,classroom1
+teacher,teacher2,classroom2
+teacher,teacher3,classroom3

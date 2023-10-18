@@ -1,0 +1,20 @@
+- rules.txt
+[AgeRange(e.g. "6-12")],[groupSize],[classroomSize]
+
+- classrooms.txt
+[name],[ageRange]
+
+- students.txt
+[name],[age],[parentName],[parentAddress],[parentPhoneNum],[registrationDate(yyyy-MM-dd)]
+
+- teachers.txt
+[name],[ageGroup(e.g. '6-12')],[reviewDate(yyyy-MM-dd)]
+
+- relations.txt
+[relationType ('student'/'teacher')],[Person],[PersonToBeAssigned]
+
+- immunizationRecords.txt
+[studentName],[vaccineType],[doseNumber],[injectionDate(yyyy-MM-dd)]
+
+- credentials.txt
+[username],[password]
